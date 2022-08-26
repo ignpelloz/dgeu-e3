@@ -1,0 +1,198 @@
+[{
+    "university": "Universidad de Almería",
+    "web":"https://www.ual.es/",
+    "degrees": [
+      {"name":"Máster en Educación Especial","area":"Otros"},
+      {"name":"Máster en Investigación y Evaluación Didáctica en el Aula para el Desarrollo Profesional Docente","area":"Otros"},
+      {"name":"Máster en Producción Vegetal en Cultivos Protegidos","area":"Ciencias"},
+      {"name":"Máster en Química","area":"Ciencias"},
+      {"name":"Máster en Contabilidad y Finanzas Corporativas","area":"Otros"},
+      {"name":"Máster en Dirección de Empresas","area":"Otros"},
+      {"name":"Grado en Estudios Ingleses (Plan 2010)","area":"Otros"},
+      {"name":"Grado en Humanidades (Plan 2010)","area":"Otros"},
+      {"name":"Grado en Psicología (Plan 2010)","area":"Ciencias"},
+      {"name":"Grado en Marketing e Investigación de Mercados (Plan 2010)","area":"Otros"},
+      {"name":"Grado en Administración y Dirección de Empresas (Plan 2010)","area":"Otros"},
+      {"name":"Grado en Turismo (Plan 2010)","area":"Otros"},
+      {"name":"Grado en Educación Social","area":"Otros"},
+      {"name":"Grado en Ciencias Ambientales","area":"Ciencias"},
+      {"name":"Grado en Ingeniería Química Industrial","area":"Ingeniería"},
+      {"name":"Grado en Matemáticas","area":"Ciencias"},
+      {"name":"Grado en Química","area":"Ciencias"}
+    ]
+  },
+  {
+    "university": "Universidad de Cadiz",
+    "web":"https://www.uca.es/",
+    "degrees": [
+      {"name":"Máster Universitario en Contabilidad y Auditoría","area":"Otros"},
+      {"name":"Máster Universitario en Dirección de Empresas","area":"Otros"},
+      {"name":"Máster Universitario en Creación de Empresas, Nuevos Negocios y Proyectos Innovadores","area":"Otros"},
+      {"name":"Máster en Dirección de los Recursos Humanos","area":"Otros"},
+      {"name":"Administración y Dirección de Empresas","area":"Otros"},
+      {"name":"Finanzas y Contabilidad","area":"Otros"},
+      {"name":"Biotecnología","area":"Ciencias"},
+      {"name":"Enología","area":"Ciencias"},
+      {"name":"Ingeniería Química","area":"Ingeniería"},
+      {"name":"Matemáticas","area":"Ciencias"},
+      {"name":"Educación Infantil","area":"Otros"},
+      {"name":"Química","area":"Ciencias"},
+      {"name":"Ciencias de la Actividad Física y del Deporte","area":"Ciencias"},
+      {"name":"Educación Primaria","area":"Otros"},
+      {"name":"Psicología","area":"Ciencias"},
+      {"name":"Filología Hispánica","area":"Otros"},
+      {"name":"Humanidades","area":"Otros"},
+      {"name":"Lingüística y Lenguas Aplicadas","area":"Otros"},
+      {"name":"Doble Grado en Filología Clásica y Estudios Ingleses","area":"Otros"}
+    ]
+  },
+  {
+    "university": "Universidad de Córdoba",
+    "web":"https://www.uco.es/",
+    "degrees": [
+      {"name":"Máster en Medicina, Sanidad y Mejora Animal","area":"Ciencias"},
+      {"name":"Máster en Vitivinicultura en Climas Cálidos (con la U. de Cádiz)","area":"Ciencias"},
+      {"name":"Máster en Agroalimentación","area":"Ciencias"},
+      {"name":"Máster en Zootecnia y Gestión Sostenible","area":"Ciencias"},
+      {"name":"Veterinaria","area":"Ciencias"},
+      {"name":"Ciencia y Tecnología de los Alimentos","area":"Ciencias"},
+      {"name":"Medicina","area":"Ciencias"},
+      {"name":"Filología Hispánica","area":"Otros"},
+      {"name":"Estudios Ingleses","area":"Otros"},
+      {"name":"Historia","area":"Otros"},
+      {"name":"Traducción e Interpretación","area":"Otros"},
+      {"name":"Historia del Arte","area":"Otros"},
+      {"name":"Ingeniería Mecánica","area":"Ingeniería"}
+    ]
+  },
+  {
+    "university": "Universidad de Granada",
+    "web":"https://www.ugr.es/",
+    "degrees": [
+      {"name":"Máster Universitario en Artes Visuales y Educación","area":"Otros"},
+      {"name":"Máster Universitario en Producción e Investigación en Arte","area":"Otros"},
+      {"name":"Máster Universitario en Dibujo: Creación Artística, Producción y Difusión","area":"Otros"},
+      {"name":"Máster  en Museología (Propio)","area":"Otros"},
+      {"name":"Máster en Ingeniería Geológica Aplicada a la Obra Civil","area":"Ingeniería"},
+      {"name":"Máster en Matemáticas","area":"Ciencias"},
+      {"name":"Máster en Microbiología","area":"Ciencias"},
+      {"name":"Bellas Artes","area":"Otros"},
+      {"name":"Conservación y Restauración de Bienes Culturales","area":"Ciencias"},
+      {"name":"Ciencias de la Actividad Física y el Deporte","area":"Ciencias"},
+      {"name":"Ciencias Ambientales","area":"Ciencias"},
+      {"name":"Estadística","area":"Ciencias"},
+      {"name":"Física","area":"Ciencias"},
+      {"name":"Geología","area":"Ciencias"},
+      {"name":"Ingeniería Electrónica Industrial","area":"Ingeniería"},
+      {"name":"Ingeniería Química","area":"Ingeniería"},
+      {"name":"Ingeniería Informática y Matemáticas","area":"Ingeniería"},
+      {"name":"Matemáticas","area":"Ciencias"}
+    ]
+  },
+  {
+    "university": "Universidad de Jaén",
+    "web":"https://www10.ujaen.es/",
+    "degrees": [
+      {"name":"Máster Universitario en Abogacía","area":"Otros"},
+      {"name":"Máster Universitario en Dependencia e Igualdad en la Autonomía Personal","area":"Otros"},
+      {"name":"Máster Universitario en Marketing y Comportamiento del Consumidor (Interuniversitario)","area":"Otros"},
+      {"name":"Máster Universitario en Prevención de Riesgos Laborales","area":"Otros"},
+      {"name":"Máster Universitario en Turismo, Arqueología y Naturaleza","area":"Otros"},
+      {"name":"Máster Universitario en Biotecnología y Biomedicina","area":"Ciencias"},
+      {"name":"Máster Universitario en Ingeniería del Transporte Terrestre y Logística","area":"Ingeniería"},
+      {"name":"Doble titulación de Grado en Administración y Dirección de Empresas y Grado en Derecho","area":"Otros"},
+      {"name":"Grado en Administración y Dirección de Empresas","area":"Otros"},
+      {"name":"Grado en Ciencias Ambientales","area":"Ciencias"},
+      {"name":"Grado en Educación Infantil","area":"Otros"},
+      {"name":"Grado en Ingeniería Electrónica Industrial","area":"Ingeniería"},
+      {"name":"Grado en Educación Primaria","area":"Otros"},
+      {"name":"Grado en Derecho","area":"Otros"},
+      {"name":"Grado en Estadística y Empresa","area":"Otros"},
+      {"name":"Grado en Finanzas y Contabilidad","area":"Otros"},
+      {"name":"Grado en Gestión y Administración Pública","area":"Otros"},
+      {"name":"Grado en Relaciones Laborales y Recursos Humanos","area":"Otros"},
+      {"name":"Grado en Turismo","area":"Otros"}
+    ]
+  },
+  {
+    "university": "Universidad de Huelva",
+    "web":"https://www.uhu.es/",
+    "degrees": [
+      {"name":"Máster Oficial en Ciencia y Tecnología Química","area":"Ciencias"},
+      {"name":"Máster Oficial Eurheo (European Master In Engineering Rheology)","area":"Ciencias"},
+      {"name":"Máster Oficial en Formulación y Tecnología del Producto: Aplicación a la Industria Química, Agroalimentaria y Farmaucéutica","area":"Ciencias"},
+      {"name":"Máster Oficial en Geología y Gestión Ambiental de los Recursos Minerales","area":"Ciencias"},
+      {"name":"Máster Oficial en Ingeniería e Instrumentación Nuclear","area":"Ingeniería"},
+      {"name":"Máster Oficial en Tecnología Ambiental","area":"Ciencias"},
+      {"name":"Ciencias Ambientales","area":"Ciencias"},
+      {"name":"Geología","area":"Ciencias"},
+      {"name":"Ingeniería Eléctrica","area":"Ingeniería"},
+      {"name":"Historia","area":"Ciencias"},
+      {"name":"Humanidades","area":"Otros"},
+      {"name":"Filología Hispánica","area":"Otros"},
+      {"name":"Química","area":"Ciencias"},
+      {"name":"Doble Grado en Ciencias Ambientales y Geología","area":"Ciencias"}
+    ]
+  },
+  {
+    "university": "Universidad de Málaga",
+    "web":"http://www.uma.es/",
+    "degrees": [
+      {"name":"Máster en Biología Celular y Molecular","area":"Ciencias"},
+      {"name":"Máster en Matemáticas","area":"Ciencias"},
+      {"name":"Máster en Química Avanzada. Preparación y Caracterización de Materiales","area":"Ciencias"},
+      {"name":"Máster en Recursos Hídricos y Medio Ambiente","area":"Otros"},
+      {"name":"Grado en Bellas Artes","area":"Otros"},
+      {"name":"Grado en Matemáticas","area":"Ciencias"},
+      {"name":"Grado en Biología","area":"Ciencias"},
+      {"name":"Grado en Ingeniería Química","area":"Ingeniería"},
+      {"name":"Grado en Bioquímica","area":"Ciencias"},
+      {"name":"Grado en Economía","area":"Ciencias"},
+      {"name":"Grado en Ingeniería Química","area":"Ingeniería"},
+      {"name":"Grado en Ciencias Ambientales","area":"Ciencias"},
+      {"name":"Grado en Bioquímica","area":"Ciencias"}
+    ]
+  },
+  {
+    "university": "Universidad Pablo de Olavide",
+    "web":"https://www.upo.es/portal/impe/web/portada",
+    "degrees": [
+      {"name":"Máster en Comunicación Internacional, Traducción e Interpretación","area":"Otros"},
+      {"name":"Máster en Historia de América Latina. Mundos Indígenas","area":"Otros"},
+      {"name":"Máster en Religiones y Sociedades","area":"Otros"},
+      {"name":"Máster en Abogacía","area":"Otros"},
+      {"name":"Humanidades","area":"Otros"},
+      {"name":"Geografía e Historia","area":"Otros"},
+      {"name":"Traducción e Interpretación","area":"Otros"},
+      {"name":"Trabajo Social","area":"Otros"},
+      {"name":"Biotecnología","area":"Ciencias"},
+      {"name":"Ingeniería Informática en Sistemas de Información","area":"Ingeniería"},
+      {"name":"Nutrición Humana y Dietética","area":"Ciencias"},
+      {"name":"Ciencias Ambientales","area":"Ciencias"},
+      {"name":"Derecho","area":"Otros"}
+    ]
+  },
+  {
+    "university": "Universidad de Sevilla",
+    "web":"https://www.us.es/",
+    "degrees": [
+      {"name":"Máster Universitario en Economía y Desarrollo (R.D.1393/07)","area":"Otros"},
+      {"name":"Máster Universitario en Actividad Física y Calidad de Vida de Personas Adultas y Mayores (RD.1393/2007)","area":"Otros"},
+      {"name":"Máster Universitario en Sistemas de Energía Térmica (R.D.1393/07)","area":"Ciencias"},
+      {"name":"Máster Universitario en Ingeniería Informática","area":"Ingeniería"},
+      {"name":"Máster Universitario en Automática, Robótica y Telemática (R.D.1393/07)","area":"Ingeniería"},
+      {"name":"Máster Universitario en Diseño Avanzado en Ingeniería Mecánica (R.D.1393/07)","area":"Ingeniería"},
+      {"name":"Máster Universitario en Electrónica, Tratamiento de Señal y Comunicaciones (R.D.1393/07)","area":"Ingeniería"},
+      {"name":"Máster Universitario en Ingeniería Ambiental (R.D.1393/07)","area":"Ingeniería"},
+      {"name":"Máster Universitario en Organización Industrial y Gestión de Empresas (R.D.1393/07)","area":"Ingeniería"},
+      {"name":"Máster Universitario en Sistemas de Energía Eléctrica (R.D.1393/07)","area":"Ingeniería"},
+      {"name":"Máster Universitario en Sistemas de Energía Térmica (R.D.1393/07)","area":"Ingeniería"},
+      {"name":"Grado en Ingeniería Aeroespacial","area":"Ingeniería"},
+      {"name":"Doble Grado en Derecho y en Economía","area":"Ciencias"},
+      {"name":"Grado en Bellas Artes","area":"Otros"},
+      {"name":"Grado en Biología","area":"Ciencias"},
+      {"name":"Doble Grado en Educación Primaria y Estudios Franceses","area":"Otros"},
+      {"name":"Grado en Ingeniería Química","area":"Ingeniería"}
+    ]
+  }
+]
